@@ -1,3 +1,7 @@
 Message Board:
 
 Z: Hello world!
+
+1/13/2016
+Helpful link for Python Libraries
+https://github.com/rasbt/pattern_classification/blob/master/resources/python_data_libraries.md
