@@ -1,0 +1,16 @@
+To do items for Neural Network
+
+1. Determine API(s) for input data
+	a. Financial data from stocks
+	b. Scan articles for keywords, determine overall feel/emotion of article
+	c. ???
+2. Create Modular design of nodes for easy implemenation of new nodes
+	a. Input Node Objects
+	b. Neural Nodes - Matrix
+3. Data Manipulation
+	a. Inputs Standardized - Create Objects for Algorithym
+	b. Massage extra data from inputs
+		I. Exponentional Moving Average
+		II. 
+4. Look into Matrix Multiplication
+5. UI Design?
