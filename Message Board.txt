@@ -5,3 +5,8 @@ Z: Hello world!
 1/13/2016
 Helpful link for Python Libraries
 https://github.com/rasbt/pattern_classification/blob/master/resources/python_data_libraries.md
+
+1/19/2016
+Z:
+Hey Chris, found another IDE that might work smoother for us. It's called PyCharm, by Jetbrains. We can use the community edition for free, it looks and feels like visual studio, and has Git Integration. Link Below:
+https://www.jetbrains.com/pycharm/download/#section=windowss
