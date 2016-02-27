@@ -10,3 +10,6 @@ https://github.com/rasbt/pattern_classification/blob/master/resources/python_dat
 Z:
 Hey Chris, found another IDE that might work smoother for us. It's called PyCharm, by Jetbrains. We can use the community edition for free, it looks and feels like visual studio, and has Git Integration. Link Below:
 https://www.jetbrains.com/pycharm/download/#section=windowss
+
+2/27/2016
+C: This is a test comment.
